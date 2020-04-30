@@ -3,3 +3,5 @@ Chatbot so schopnostou rozpoznavania ludskych emocii
 -praca je mierena na vytvorenie chatbota, ktory bude schopny komunikovat s 
 clovekom a dokaze mu podavat otazky a odpovede aj podla emocie, ktoru clovek
 urobi na tvari
+
+Akademicky rok obhajoby zaverecnej prace : 2020-2021
